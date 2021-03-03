@@ -46,3 +46,11 @@
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="MacOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
 <br/>
+
+<div align="center">
+ **Contact Links**
+ <br>
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankita-sinha-b3781b138/)](https://www.linkedin.com/in/soumadeep-dhar/)
+  [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/nick.soumad/)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-R31ED760.svg?&style=flat-square&logo=instagram&logoColor=white&color=F77737)](https://www.instagram.com/s0umadeep/)
+</div>
