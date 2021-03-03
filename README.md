@@ -50,7 +50,7 @@
 <div align="center">
  **Contact Links**
  <br>
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankita-sinha-b3781b138/)](https://www.linkedin.com/in/soumadeep-dhar/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumadeep-dhar/)](https://www.linkedin.com/in/soumadeep-dhar/)
   [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/nick.soumad/)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-R31ED760.svg?&style=flat-square&logo=instagram&logoColor=white&color=F77737)](https://www.instagram.com/s0umadeep/)
 </div>
